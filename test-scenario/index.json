@@ -1,4 +1,5 @@
 {
+  "type": "challenge@0.7",
   "title": "Test Scenario",
   "description": "",
   "difficulty": "Beginner",
@@ -7,7 +8,8 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "step1.md",
+        "verify": "1_verify.sh"
       }
     ],
     "intro": {
