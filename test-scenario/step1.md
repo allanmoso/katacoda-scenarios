@@ -1,4 +1,2 @@
 
-
-`echo "Run in Terminal"`{{execute}}
-
+Create bananas.txt file for scale.
