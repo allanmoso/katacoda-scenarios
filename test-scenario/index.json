@@ -20,9 +20,10 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+      "uilayout": "editor-terminal",
+      "hideHiddenFiles": true
   },
   "backend": {
-    "imageid": "openjdk:15"
+      "imageid": "ubuntu:2004"
   }
 }
