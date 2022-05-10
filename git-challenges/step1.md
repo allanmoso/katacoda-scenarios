@@ -1,5 +1,10 @@
+We are going to setup our environment.
+
+Make `git diff` easier to read
+`export LESS=SXFR`
+
 Create a new Git repository that will serve as our remote repository.
-`mkdir git-challenges-remote && cd git-challenges-remote && git init`{{execute}}
+`mkdir git-challenges-remote && cd git-challenges-remote && git init && git checkout -b master`{{execute}}
 
 Create a test file.
 `touch test.txt`{{execute}}
