@@ -1,3 +1,6 @@
+First let's create a new branch `step3`.
+`git checkout master && git pull && git checkout -b step3`{{execute}}
+
 The previous step included staging the file changes before making a commit. Sometimes you will need to be able to partially commit changes. To do this you will need to selectively stage changes before making a commit.
 
 To demonstrate this we are going to add two edits to our `test.txt` file: one at the begining of the file and one at the end of the file.
