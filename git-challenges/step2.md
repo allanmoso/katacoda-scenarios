@@ -1,11 +1,11 @@
 
 To test that our remote and local repository setup is working propery we are going to commit and push a change.
 
-First create a new branch
+First create a new branch in `git-challenges`
 `git checkout -b step2`
 
 Add a line in the file
-`cd git-challenges && echo 'test1' > test.txt`{{execute}}
+`echo 'test1' > test.txt`{{execute}}
 
 You can see the changes made to file
 `git diff`{{execute}}
