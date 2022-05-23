@@ -2,7 +2,7 @@
 To test that our remote and local repository setup is working propery we are going to commit and push a change.
 
 First create a new branch in `git-challenges`
-`git checkout -b step2`
+`git checkout -b step2`{{execute}}
 
 Add a line in the file
 `echo 'test1' > test.txt`{{execute}}
